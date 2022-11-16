@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(255, 174, 144);
+}
+.joke-generator{
+    background-color: aquamarine;
+    width: 30%;
+    padding: 50px;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.btn-generate{
+    width: 100%;
+    border: none;
+    background-color: rgb(255, 174, 144);
+    color: #fff;
+    padding: 15px;
+    border-radius: 10px;
+    
+}
+
+.joke-display{
+    padding: 10px;
+    border-radius: 10px;
+}
+
