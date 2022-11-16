@@ -1,5 +1,6 @@
 body{
-    background-color: rgb(255, 174, 144);
+    background-color: rgb(255, 215, 69);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .joke-generator{
     background-color: aquamarine;
@@ -13,11 +14,10 @@ body{
 .btn-generate{
     width: 100%;
     border: none;
-    background-color: rgb(255, 174, 144);
-    color: #fff;
+    background-color: rgb(255, 215, 69);
     padding: 15px;
     border-radius: 10px;
-    
+    font-size: large;
 }
 
 .joke-display{
